@@ -4,6 +4,8 @@
 
 • The important libraries used in this project are: pandas, scikit-learn, numpy, matplotlib, seaborn, LabelEncoder, LinearDiscriminantAnalysis, RandomForestClassifier.
 
+• Spam Email Dataset: https://archive.ics.uci.edu/ml/datasets/spambase
+
 • Team Members: 
 
 Rawan Alharthi 444001029
@@ -11,6 +13,4 @@ Rawan Alharthi 444001029
 Mashael Abdali 444001062
 
 Shaimaa Alghamdi 444000746
-
-• Spam Email Dataset: https://archive.ics.uci.edu/ml/datasets/spambase
 
